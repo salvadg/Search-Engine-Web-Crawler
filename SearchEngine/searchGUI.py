@@ -1,5 +1,5 @@
 ## Search GUI 
-## Salvador Gutierrez (89291450)
+## Salvador Gutierrez 
 ## 03/08/2019 @ 7:12 p.m
 import indexer as dex
 import Tkinter as tk
