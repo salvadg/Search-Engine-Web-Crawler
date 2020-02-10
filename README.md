@@ -1,4 +1,4 @@
-# Search-Engine
+# ICS Search Engine
 
 ## About
 Given a zip of crawled data, Built a mini search engine for uci.ics.edu
