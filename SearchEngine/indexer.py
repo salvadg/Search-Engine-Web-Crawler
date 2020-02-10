@@ -1,6 +1,6 @@
 
 ## Creates index for future queries
-## Salvador Gutierrez (89291450)
+## Salvador Gutierrez 
 ## 03/08/2019 @ 3:52 p.m
 
 
